@@ -1,7 +1,7 @@
 # to-do-list
 > Status do projeto: Finalizado
 
-<a href="[to-do-list-mauve-xi.vercel.app](https://to-do-list-mauve-xi.vercel.app/)">Acesse o projeto por este link</a>
+[Acesse o projeto por este link](https://to-do-list-mauve-xi.vercel.app/)
 
 Este site é um to do list, onde você podera criar tarefas e conclui-lás
 
