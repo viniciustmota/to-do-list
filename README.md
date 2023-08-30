@@ -1,7 +1,9 @@
 # to-do-list
 > Status do projeto: Finalizado
 
-São oito personagens dos x-mens, quando você passar o mouse por cima de um deles, irá abrir uma descrição sobre este personagem
+<a href="to-do-list-mauve-xi.vercel.app">Acesse o projeto por este link</a>
+
+Este site é um to do list, onde você podera criar tarefas e conclui-lás
 
 ![to do list](https://github.com/viniciustmota/to-do-list/assets/106537834/035300b5-48d1-44cc-a253-b4890d9b4f13)
 
